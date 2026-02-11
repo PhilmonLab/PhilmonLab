@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I’m Philmon 👋<br><br>🎓 I’m a ****Computer Science student**** <br>🔭 Currently building various projects in Python and Java <br>🌱 Java + Python + HTML 5 learner  <br>👯 Collaboration: **small apps, CLI tools, learning projects**  <br>
+### Hi, I’m Philmon 👋<br><br>🎓 I’m a ****Computer Science student**** <br>🔭 Currently building various projects in Python and Java <br>🌱 Java + Python + HTML 5 learner  <br>👯 Collaboration: **small apps, CLI tools, learning projects**  <br>
 
 
 ## 🌐 Socials:
